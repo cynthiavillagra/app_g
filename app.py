@@ -7,7 +7,7 @@ demo = gr.Interface(
     fn=saludar,
     inputs="text",
     outputs="text",
-    title="App basica con Gradio",
+    title="App basic con Gradio",
     description="Escribi tu nombre y la app te saluda."
 )
 
